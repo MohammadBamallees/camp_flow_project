@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "526206242809",
+    "project_id": "campflow-d0f0a",
+    "storage_bucket": "campflow-d0f0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526206242809:android:570bb55411b397d99e7728",
+        "android_client_info": {
+          "package_name": "com.example.camp_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526206242809-tbpkev9s0dr8rlvf17vsolkv2r7qns1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camp_flow",
+            "certificate_hash": "4bb0ebced4c182ac7b1e5a1510e3a1739bf7328b"
+          }
+        },
+        {
+          "client_id": "526206242809-rs19r8o0fjcdsgfk2kfd6eblmgrt9rit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzM_w5k2AqquM1VQzRLQbqSrBOiom8rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526206242809-rs19r8o0fjcdsgfk2kfd6eblmgrt9rit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526206242809-cniqon2ki0rfehc1ib63aeoj0s66hpnd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campFlow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
